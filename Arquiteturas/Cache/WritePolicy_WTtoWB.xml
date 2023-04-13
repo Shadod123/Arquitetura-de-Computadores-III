@@ -29,7 +29,7 @@
 			<timeCicle>1</timeCicle>
 			<memorySize>4</memorySize>
 			<associativityLevel>1</associativityLevel>
-			<writePolicy>WriteThrough</writePolicy>
+			<writePolicy>WriteBack</writePolicy>
 			<replacementAlgorithm>LRU</replacementAlgorithm>
 		</unifiedCache>
 	</Cache>
